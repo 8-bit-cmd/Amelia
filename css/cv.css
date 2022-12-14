@@ -256,6 +256,24 @@ body {
     -o-filter: grayscale(0);
 }
 
-.meContacter{
-    text-align:left !important;
+.meContacter {
+    text-align: left !important;
+}
+
+/******************************************
+* Langues
+******************************************/
+#langues .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#langues .langue,
+#langues .niveau {
+    font-size: 1.3em;
+}
+
+#langues .langue {
+    padding-top: 3px;
 }
