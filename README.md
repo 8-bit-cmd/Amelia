@@ -1,5 +1,5 @@
 # ameliapilou.github.io
-Portfolio d'Amélia PILOU, étudiante en BTS SIO
+Portfolio de Romain Bonhomme, étudiant en BTS SIO
 
 ## Objectifs:
 
